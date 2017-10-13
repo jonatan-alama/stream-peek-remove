@@ -1,0 +1,31 @@
+{
+  "name": "stream-peek-remove",
+  "version": "1.0.0",
+  "description": "Node stream Transform that extracts the first n bytes from a stream",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatan-alama/stream-peek-remove.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "stream",
+    "extract",
+    "remove",
+    "peek",
+    "transform"
+  ],
+  "author": "Jonatan Alama <jonatan@aliolicode.com> (https://aliolicode.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonatan-alama/stream-peek-remove/issues"
+  },
+  "homepage": "https://github.com/jonatan-alama/stream-peek-remove#readme",
+  "dependencies": {
+    "tape": "^4.8.0"
+  }
+}
