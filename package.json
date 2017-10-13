@@ -25,7 +25,7 @@
     "url": "https://github.com/jonatan-alama/stream-peek-remove/issues"
   },
   "homepage": "https://github.com/jonatan-alama/stream-peek-remove#readme",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.8.0"
   }
 }
