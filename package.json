@@ -1,6 +1,6 @@
 {
   "name": "stream-peek-remove",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node stream Transform that extracts the first n bytes from a stream",
   "main": "lib/index.js",
   "scripts": {
